@@ -1,9 +1,18 @@
-img{
+.contenedor {
+	width: 100%;
 	height: 100%;
+	position: relative;
+}
+
+img{
+	height: auto;
 	width: 100%;
 }
 
 p{
-	top: 100px;
+	position: absolute;
+	top:80%;
 	color: white;
+	width: : auto;
+	padding: 10%;
 }
